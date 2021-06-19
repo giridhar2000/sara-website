@@ -1,0 +1,45 @@
+.card:hover {
+    transform: scale(1.02);
+    opacity: 0.8;
+}
+.company-logo {
+    margin-top: 60px;
+    margin-left: 25%;
+}
+
+.rowwww {
+    margin-top: 100px;
+    margin-left: 25%;
+    margin-right: 4%;
+}
+
+.container {
+    margin-bottom: 3%;
+}
+
+* {
+	font-family: 'Poppins', sans-serif;
+}
+
+td,
+th {
+	margin: 0 auto;
+	text-align: center;
+}
+
+th {
+	background-color: rgb(28, 49, 145) !important;
+	color: whitesmoke;
+}
+
+.width-50 {
+	width: 60%;
+	margin-left: 30%;
+	margin-top: 7%;
+}
+.heading {
+	margin: 0 auto;
+	margin-bottom: 4%;
+	color: #273878;
+	text-align: center;
+}

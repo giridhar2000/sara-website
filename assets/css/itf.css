@@ -1,0 +1,31 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin:0px 180px;
+}
+.card {
+    border-radius:10px;
+    margin:10px auto;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+.card-title {
+	text-transform: uppercase;
+	color: #E44424;
+}
+
+.card-text {
+	margin-top:10px;
+	margin-bottom: 10px;
+	background-color:#FFFFFF;
+	color:#000000;
+}
+
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+#cont:hover {
+    transform: scale(1.02);
+}
